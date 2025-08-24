@@ -76,9 +76,9 @@
 
 #define HSI_VALUE    ((uint32_t)8000000) /*!< Value of the Internal oscillator in Hz*/
 
-/* GD32F10x Standard Peripheral Library version number V2.0 */
+/* GD32F10x Standard Peripheral Library version number V1.1 */
 #define __GD32F10X_STDPERIPH_VERSION_MAIN   (0x01) /*!< [31:24] main version */
-#define __GD32F10X_STDPERIPH_VERSION_SUB1   (0x00) /*!< [23:16] sub1 version */
+#define __GD32F10X_STDPERIPH_VERSION_SUB1   (0x01) /*!< [23:16] sub1 version */
 #define __GD32F10X_STDPERIPH_VERSION_SUB2   (0x00) /*!< [15:8]  sub2 version */
 #define __GD32F10X_STDPERIPH_VERSION_RC     (0x00) /*!< [7:0]  release candidate */ 
 #define __GD32F10X_STDPERIPH_VERSION        ((__GD32F10X_STDPERIPH_VERSION_MAIN << 24)\

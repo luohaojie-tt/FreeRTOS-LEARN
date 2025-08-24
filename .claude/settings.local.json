@@ -14,7 +14,13 @@
       "WebFetch(domain:github.com)",
       "Bash(git add:*)",
       "Bash(git rm:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git tag:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:www.freertos.org)",
+      "WebFetch(domain:www.keil.com)"
     ],
     "deny": [],
     "ask": [],
