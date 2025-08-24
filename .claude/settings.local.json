@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "mcp__context7__resolve-library-id",
+      "mcp__context7__get-library-docs",
+      "Bash(mkdir:*)",
+      "Bash(git clone:*)",
+      "WebSearch",
+      "WebFetch(domain:developer.arm.com)",
+      "Bash(dir:*)",
+      "WebFetch(domain:www.gigadevice.com)",
+      "WebFetch(domain:arm-software.github.io)",
+      "WebFetch(domain:github.com)",
+      "Bash(git add:*)",
+      "Bash(git rm:*)",
+      "Bash(rm:*)",
+      "Bash(git commit:*)",
+      "Bash(git tag:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "WebFetch(domain:www.freertos.org)",
+      "WebFetch(domain:www.keil.com)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "D:\\"
+    ]
+  }
+}
